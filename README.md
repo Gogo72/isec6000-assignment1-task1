@@ -1,11 +1,11 @@
 # Project: isec6000-assignment1-task1 
 
 ## Description
-Github repository for performing activityies related to unit ISEC 6000 at Curtin University  
+Github repository for performing activities related to unit ISEC 6000 at Curtin University  
 Assignment 1, Task 1, 2023
 
 ## Code
-Initial code contains compose.yaml  which will deploy Portainer on port 9999 and nginx on port 8080
+Initially contains compose.yaml  which will deploy Portainer on port 9999 and nginx on port 8080
 
 ## Technology used
 Github, Docker, Linux, Virtual Box
