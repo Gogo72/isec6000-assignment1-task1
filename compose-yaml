@@ -1,0 +1,21 @@
+services:
+  portainer:
+    image: portainer/portainer-ce:alpine
+    container_name: portainer
+    command: -H unix:///var/run/docker.sock
+    ports:
+      - "9999:9000"
+    volumes:
+      - "/var/run/docker.sock:/var/run/docker.sock"
+      - "portainer_data:/data"
+    restart: always
+
+  nginx:
+    image: nginx:latest
+    container_name: website
+    ports:
+      - "8080:80"
+    restart: always
+
+volumes:
+  portainer_data:
