@@ -5,13 +5,13 @@ Github repository for performing activities related to unit ISEC 6000 at Curtin 
 Assignment 1, Task 1, 2023
 
 ## Code
-Initially contains compose.yaml  which will deploy Portainer on port 9999 and nginx on port 8080
+supporting documents for task1
 
 ## Technology used
-Github, Docker, Linux, Virtual Box
+IrfanView, PicPick, Google Cloud
 
 ## Version
-0.1 Initial release, 2023-09-02
+1.0 Initial release, 2023-09-02
 
 ## Author
 Tomas Prasil
