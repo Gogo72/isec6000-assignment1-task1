@@ -5,7 +5,7 @@ Github repository for performing activities related to unit ISEC 6000 at Curtin 
 Assignment 1, Task 1, 2023
 
 ## Code
-supporting documents for task1
+Supporting documents for task1, simple compose.yaml
 
 ## Technology used
 IrfanView, PicPick, Google Cloud
