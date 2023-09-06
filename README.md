@@ -16,5 +16,4 @@ IrfanView, PicPick, Google Cloud
 ## Author
 Tomas Prasil
 
-#### TAG: isec6000-assignment1-task1 
 ![](https://komarev.com/ghpvc/?username=Gogo72&color=green)
